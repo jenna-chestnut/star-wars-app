@@ -1,0 +1,16 @@
+.error {
+    color: white;
+    padding: 15px 0 20px 0;
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    background-color: #1e1a3f;
+  }
+
+.error button {
+    margin-left: 20px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
